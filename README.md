@@ -1,5 +1,9 @@
 # Campus Event Volunteer Portal
 
+## CEVP
+
+Click on the given link to explore :  [CEVP- Campus Event Volunteer Portal](https://cevp-a-campus-event-volunteer-porta.vercel.app/).
+
 ## Overview
 
 This is a full-stack web application designed to manage on-campus event volunteers. The portal allows event organizers to create and manage events, while volunteers can browse, sign up for, and provide feedback on these events. The system is built with a modern technology stack featuring a React frontend and a Supabase backend.
